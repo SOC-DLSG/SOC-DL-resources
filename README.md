@@ -14,8 +14,8 @@
 | Date | Activity | Links to Materials | PIC |
 | ---- | -------- | ------------------ | --- |
 | 24-Feb-2020 | Kick-off Meeting |     | ADE |
-| 2-Mar-2020 | 3.1 - .3.3 d2l |  | ATW, SFY |
-| 10-Mar-2020 | 3.4 - 3.6 d2l |  | WDU, SLL |
+| 2-Mar-2020 | 3.1 - .3.3 d2l | [3.1. Linear Regression](http://d2l.ai/chapter_linear-networks/linear-regression.html), [3.2. Linear Regression Implementation from Scratch](http://d2l.ai/chapter_linear-networks/linear-regression-scratch.html), [3.3. Concise Implementation of Linear Regression](http://d2l.ai/chapter_linear-networks/linear-regression-gluon.html) | ATW, SFY |
+| 10-Mar-2020 | 3.4 - 3.6 d2l | [3.4. Softmax Regression](http://d2l.ai/chapter_linear-networks/softmax-regression.html), [3.5. The Image Classification Dataset](http://d2l.ai/chapter_linear-networks/fashion-mnist.html), [3.6. Implementation of Softmax Regression from Scratch](http://d2l.ai/chapter_linear-networks/softmax-regression-scratch.html)  | WDU, SLL |
 
 
 ## Rules
